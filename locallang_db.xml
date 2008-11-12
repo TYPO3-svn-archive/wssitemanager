@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'wssitemanager'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_wssitemanager_domainaliases">Domain alias</label>
+			<label index="tx_wssitemanager_domainaliases.name">Name</label>
+			<label index="tx_wssitemanager_domainaliases.domain">Domain</label>
+			<label index="tx_wssitemanager_domains">domains</label>
+			<label index="tx_wssitemanager_domains.name">Name</label>
+			<label index="tx_wssitemanager_domains.hotel">Hotel</label>
+			<label index="tx_wssitemanager_servers">Servers</label>
+			<label index="tx_wssitemanager_servers.name">Name</label>
+			<label index="tx_wssitemanager_servers.host">Host</label>
+			<label index="tx_wssitemanager_servers.sshuser">sshuser</label>
+			<label index="tx_wssitemanager_servers.dbuser">dbuser</label>
+			<label index="tx_wssitemanager_servers.dbpass">dbpass</label>
+			<label index="tx_wssitemanager_servers.dir">dir</label>
+			<label index="tx_wssitemanager_servers.type.I.0">Production</label>
+			<label index="tx_wssitemanager_servers.type.I.1">Test</label>
+			<label index="tx_wssitemanager_servers.type.I.2">Development</label>
+			<label index="tx_wssitemanager_servers.type">type</label>
+			<label index="tx_wssitemanager_servers.closed">closed</label>
+			<label index="tx_wssitemanager_hotels">Hotels</label>
+			<label index="tx_wssitemanager_hotels.name">Name</label>
+			<label index="tx_wssitemanager_hotels.developers">Developers</label>
+			<label index="tx_wssitemanager_hotels.servers">Servers</label>
+			<label index="tx_wssitemanager_hotels.locked">Locked</label>
+			<label index="tt_content.list_type_pi1">Queue</label>
+			<label index="tt_content.list_type_pi2">HotelController</label>
+			<label index="tt_content.list_type_pi3">MaintController</label>
+			<label index="tt_content.list_type_pi4">frontend</label>
+		</languageKey>
+	</data>
+</T3locallang>
